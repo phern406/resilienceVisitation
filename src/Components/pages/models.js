@@ -64,7 +64,7 @@ const Models = () => (
         We use Visit Coaching with all our <span style={{}}>private pay clients.</span>
       </h4>
       <p style={{ marginLeft: "20px", marginRight: "15px" }}>
-      You can learn more about private pay services  <a href="/newclients">
+      You can learn more about private pay services  <a href="/newClients">
           HERE
         </a>{" "} 
       </p>
