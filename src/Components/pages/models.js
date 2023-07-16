@@ -36,7 +36,7 @@ const Models = () => (
       <br />
       <p style={{ marginLeft: "20px", marginRight: "15px" }}>
         Visit Coaching is adaptable to many different situations and allows us
-        to flexibility to meet each family’s unique needs while providing the
+        the flexibility to meet each family’s unique needs while providing the
         support parents need to remain attuned to their children’s needs in
         extraordinarily stressful circumstances.{" "}
       </p>
@@ -58,6 +58,17 @@ const Models = () => (
         SafeCare is typically completed over the course of 18 weekly sessions.
         Each session lasts approximately one hour.
       </p>
+
+      <h4 style={{ fontWeight: "bold"}}>
+        {" "}
+        We use Visit Coaching with all our <span style={{}}>private pay clients.</span>
+      </h4>
+      <p style={{ marginLeft: "20px", marginRight: "15px" }}>
+      You can learn more about private pay services  <a href="/newclients">
+          HERE
+        </a>{" "} 
+      </p>
+      
       </ul>
       <br/>
       <br/>

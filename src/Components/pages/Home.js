@@ -58,7 +58,7 @@ export default function Home() {
                   Resilience Visitation
                 </span>{" "}
                 was founded in 2019 to transform the ways supervised visitation
-                and parenting supports are offered to families involved with CFS
+                and parenting supports are offered 
                 in the Bozeman area. We exist to help families working through
                 experiences of abuse and neglect of children stay connected and
                 discover healthier ways of relating.
@@ -119,8 +119,7 @@ export default function Home() {
               </h5>
               <p className="card-text">
                 Resilience Visitation serves families in Gallatin, Park, and
-                Sweetgrass Counties. At this time, we only work with families
-                referred to us by Child and Family Services. 
+                Sweetgrass Counties. 
                 <br/>
                 <span style={{textDecoration: "underline"}}>More</span>
               </p>

@@ -39,7 +39,7 @@ const Jobs = () => (
             professionals who extend our mission of supporting families through
             their journeys of transformation that break cycles of abuse and
             neglect. These professionals are responsible for setting their own
-            schedules as their partner with families. Family Connection
+            schedules as they partner with families. Family Connection
             Specialists receive training in at least one evidence-based model
             and manage their own caseloads. Family Connection Specialists are
             required to have at least a BA in a relevant field.

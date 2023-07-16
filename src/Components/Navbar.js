@@ -77,6 +77,27 @@ function Navbar() {
                   </Link>
                 </li>
 
+                <li className="nav-item">
+                  <Link
+                    to="/newClients"
+                    className="nav-links"
+                    onClick={closeMobileMenu}
+                  >
+                    Private Pay
+                  </Link>
+                </li>
+
+  {/* New Clients */}
+  {/* <li className="nav-item">
+                  <Link
+                    to="/jobs"
+                    className="nav-links"
+                    onClick={closeMobileMenu}
+                  >
+                   New Clients
+                  </Link>
+                </li> */}
+
                 {/* Jobs */}
                 <li className="nav-item">
                   <Link
@@ -87,6 +108,9 @@ function Navbar() {
                     Looking For A Job?
                   </Link>
                 </li>
+
+               
+               
               </ul>
             </div>
           </Col>

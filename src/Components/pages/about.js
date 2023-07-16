@@ -16,7 +16,8 @@ const About = () => (
           setting, or in an office. We maintain offices in Belgrade and
           Livingston. We also work with community partners throughout our
           service area to provide spaces for families to connect. <br /> <br />
-          <span style={{ fontWeight: "bold" }}>
+          
+          {/* <span style={{ fontWeight: "bold" }}>
             At this time, we only work with families referred to us by Child and
             Family Services. {""}
           </span>
@@ -24,7 +25,19 @@ const About = () => (
           contact us {""}
           <a classname="email" href="mailto:brice@resiliencevisitation.org">
             HERE
+          </a> */}
+
+                <span style={{ fontWeight: "bold" }}>
+                If you would like more information and to inquire about any of our services, please contact us {""}
+          </span>
+        
+          <a classname="email" href="mailto:brice@resiliencevisitation.org">
+            HERE
           </a>
+
+        
+       
+         
         </p>
         <img src="pic/map.jpg" alt="img pic/map" style={{ width: "95%" }} />
       </ul>
