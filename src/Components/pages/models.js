@@ -41,10 +41,11 @@ const Models = () => (
         extraordinarily stressful circumstances.{" "}
       </p>
 
-      <h4 style={{ fontWeight: "bold" }}>
+         {/* (THIS MIGHT COME BACK SO KEEP FOR NOW) */}
+      {/* <h4 style={{ fontWeight: "bold" }}>            
         {" "}
         We use{" "}
-        <a href="https://safecare.publichealth.gsu.edu/about-safecare/">
+        <a href="https://safecare.publichealth.gsu.edu/about-safecare/" target="blank">
           SafeCare
         </a>{" "}
         as a vehicle to ensure that parents of young children have basic
@@ -57,7 +58,61 @@ const Models = () => (
         unintentional injury and keeping children as healthy as possible.
         SafeCare is typically completed over the course of 18 weekly sessions.
         Each session lasts approximately one hour.
+      </p> */}
+
+     {/* <center> <h4 style={{ fontWeight: "bold"}}>
+        {" "}
+        We use Visit Coaching with all our <span style={{}}>private pay clients.</span>
+      </h4> </center> */}
+      {/* <p style={{ marginLeft: "20px", marginRight: "15px" }}>
+      You can learn more about private pay services  <a target={"_blank"} href="/newClients">
+          HERE</a>
       </p>
+       */}
+
+<br/>
+
+<h4 style={{ fontWeight: "bold" }}>
+        {" "}
+        We use{" "}
+        <a href="https://www.circleofsecurityinternational.com/video-overview-of-cosp/" target="blank">
+          Circle of Security Parenting (COSP)
+        </a>{" "}
+        to help parents reflect upon how their parenting can help their children become more secure in their relationship.   
+      </h4>
+      <p style={{ marginLeft: "20px", marginRight: "15px" }}>
+      COPS is typically completed in 8 sessions.  Each session is about 90 minutes long and includes video and discussion.  
+      We can facilitate COSP as a traditional parenting class with a group or with a single family.    
+      </p>
+
+<br/>
+
+     <center> <h4 style={{ fontWeight: "bold"}}>
+        {" "}
+        {/* We use Visit Coaching with all our <span style={{}}>private pay clients.</span> */}
+      </h4> </center>
+      {/* <p style={{ marginLeft: "20px", marginRight: "15px" }}>
+      You can learn more about private pay services  <a target={"_blank"} href="/newClients">
+          HERE</a>
+      </p>
+       */}
+
+
+
+<h4 style={{ fontWeight: "bold" }}>
+        {" "}
+        We use{" "}
+        <a href="https://www.abcintervention.org/" target="blank">
+        Attachment and Bio-Behavioral Catch Up (ABC)
+        </a>{" "}
+        to support families who want to build a better connection with their young children.      </h4>
+      <p style={{ marginLeft: "20px", marginRight: "15px" }}>
+      ABC is a 10-week program for parents and other caregivers of children 6 months-2 years old.  
+      It helps families build a strong foundation for their children now so they can 
+      overcome challenges and thrive both now and later in life.      
+      </p>
+
+<br/>
 
      <center> <h4 style={{ fontWeight: "bold"}}>
         {" "}
@@ -67,6 +122,7 @@ const Models = () => (
       You can learn more about private pay services  <a target={"_blank"} href="/newClients">
           HERE</a>
       </p>
+       */}
        */}
       </ul>
       <br/>
