@@ -81,7 +81,7 @@ const Models = () => (
         to help parents reflect upon how their parenting can help their children become more secure in their relationship.   
       </h4>
       <p style={{ marginLeft: "20px", marginRight: "15px" }}>
-      COPS is typically completed in 8 sessions.  Each session is about 90 minutes long and includes video and discussion.  
+      COSP is typically completed in 8 sessions.  Each session is about 90 minutes long and includes video and discussion.  
       We can facilitate COSP as a traditional parenting class with a group or with a single family.    
       </p>
 
